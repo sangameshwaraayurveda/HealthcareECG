@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+wfdb
+plotly
+pandas
+scipy
+numpy
+python-multipart
+biosppy
